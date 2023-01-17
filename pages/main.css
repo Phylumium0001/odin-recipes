@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(215, 214, 219, 0);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    color: rgb(79, 157, 194);
+   }
+
+
+
+.menu{
+    font-size: large;
+    color: rgb(8, 134, 19);
+    background-color: rgb(154, 206, 197);
+    border-radius: 5px;
+    border-style:groove;
+    border-color: rgba(97, 91, 180, 0.493);
+    display: flex;
+    flex: auto;
+}     
+
+.recipe_name{
+    color: blueviolet;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.recipe_topic{
+    color: blueviolet;
+    font-size:large;
+    font-weight: 300;
+}
+
+.content{
+    font-size: large;
+}

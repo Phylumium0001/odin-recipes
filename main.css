@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(209, 182, 228, 0.014);
+}
+
+h1{
+    color: rgb(79, 157, 194);
+    margin-left: 20px;
+}
+
+/*CSS box model
+    Margin - Between boxes:
+    Padding -  :
+    Borders - Space between the margin and the padding
+*/
+
+.menu{
+    font-size: large;
+    color: rgb(8, 134, 19);
+    background-color: rgb(154, 206, 197);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style:groove;
+    display: flex;
+    flex: auto;
+}
+
+
+
+
+
+

@@ -21,6 +21,15 @@ h1{
     flex: auto;
 }     
 
+.container{
+    background-color: bisque;
+    border-radius: 10px;
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+}
+
 .recipe_name{
     color: blueviolet;
     font-size: larger;
